@@ -1,2 +1,2 @@
-# CSRecITF
-Contrastive Learning for Sequential Recommendation with Interest Trends Augmentation from Frequency Domain Perspective
+# CFIT4SRec
+Contrastive Learning with Frequency-Domain Interest Trends for Sequential Recommendation
